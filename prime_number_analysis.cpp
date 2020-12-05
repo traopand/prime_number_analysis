@@ -1,6 +1,4 @@
 //
-//  main.cpp
-//  a2-q1
 //
 //  Created by Tara Rao-Pandit on 2020-10-08.
 //  Copyright © 2020 Tara Rao-Pandit. All rights reserved.
